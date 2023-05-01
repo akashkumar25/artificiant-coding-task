@@ -15,3 +15,11 @@ Tackled the challenge? push it your Github/Gitlab and send the link to [career@a
 
 Try your best & good luck!\
 AMI AI Team
+
+## Requirements
+```bash
+pip install opencv-python
+pip install onnx
+pip install onnx2pytorch
+pip install torch
+```
